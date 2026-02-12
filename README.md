@@ -14,10 +14,11 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zippxenon&cover_image=true&theme=novatorem&show_offline=false&background_color=b24cd6&interchange=true&profanity=false&bar_color=000000&bar_color_cover=true">
   </a>
 </p>
-<p align="center">
-  <img src="https://i.imgur.com/816yDg0.gif" width="95px">
-  
+
 <p align="center">
     <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
     <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white">
+
+<p align="center">
+  <img src="https://i.imgur.com/816yDg0.gif" width="95px">
