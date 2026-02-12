@@ -3,16 +3,15 @@
   <br><br>
   <samp>
     hello hello, call me sad!
-    <br>attempting to learn coding while breaking things terribly 
-    <br>
-    <br>i love modding games as well when not playing them, you'll probably find any mods i make here :]
-    <br><br><img src="https://c.tenor.com/AME4Mywkc88AAAAC/tenor.gif" width="200px" align="center">
+    <br>just an artist attempting to learn coding while breaking things terribly 
+    <br>i love modding games as well when not playing them, you'll probably find any mods i make here ^_^
+    <br><br><img src="https://c.tenor.com/AME4Mywkc88AAAAC/tenor.gif" width="150px" align="center">
     <br><br>you can find me on most social platforms @ beangusu
   </samp>
   
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=zippxenon&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zippxenon&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=4985fd&bar_color_cover=true&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zippxenon&cover_image=true&theme=novatorem&show_offline=false&background_color=b24cd6&interchange=true&profanity=false&bar_color=000000&bar_color_cover=true">
   </a>
 </p>
 <p align="center">
